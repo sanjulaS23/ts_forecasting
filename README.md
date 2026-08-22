@@ -2,9 +2,9 @@
 
 An enterprise-grade, end-to-end machine learning and MLOps pipeline designed to forecast future energy consumption patterns using classical statistical models, modern forecasting frameworks, deep learning, and workflow automation.
 
-![Project Demo](demo(1).png) 
-![Project Demo](demo(2).png) 
-![Project Demo](demo(3).png) 
+![Project Demo](demo (1).png) 
+![Project Demo](demo (2).png) 
+![Project Demo](demo (3).png) 
 
 ## 🚀 Project Overview
 Accurate energy forecasting is crucial for grid management and resource allocation. This project processes historical energy consumption data (`AEP_MW`), performs rigorous stationarity tests, implements multiple predictive models, and automates daily forecasting using **Prefect**.
