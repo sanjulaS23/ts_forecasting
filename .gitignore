@@ -1,0 +1,11 @@
+# Environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data & Outputs (අවශ්‍ය නම් පමණක්)
+data/
+forecasts/
